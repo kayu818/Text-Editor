@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My personal site</title>
+<linK rel="stylesheet" href="css/style.css">
+<link rel="icon" href="favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat:wght@1 00&family=Sacramento&display=swap" rel="stylesheet">
+</head>
+<body >
+<div class="top-container">
+<img class="top-cloud" src="CSS/cloud.png" alt="cloud.png">
+<h1 class="ball"> I'm Kashif.</h1>
+<h2 class="programmer"> programmer and artist</h2>
+
+<img class="mybottom-cloud" src="CSS/cloud.png" alt="cloud.png">
+<img src="CSS/mountain.png" alt="mountain.png">
+</div>
+<div class="middle-container">
+<div class="profile">
+<img class="brush" src="CSS/debby-hudson-MzSqFPLo8CE-unsplash-modified.png" alt="ART">
+<h2>Hi.</h2>
+<p class="intro">I'm a developer, I have a passion for web design and love to create for web and mobile devices.</p>
+<p>i love nature, food and art.</p>
+</div>
+<br>
+<hr>
+<br>
+<div class="skills">
+<h2>My Skills.</h2>
+<div class="skill-row">
+<img class="skill-img developer-png" src="CSS/developer-modified.png" alt="developer">
+ 
+<h3>Front-End Development</h3>
+<p>I have a very good understanding of design and layout..</p>
+</div>
+<div class="skill-row">
+<img class="skill-img design-png" src="CSS/pexels-mithul-varshan-3023211- modified.png" alt="design">
+<div class="design-padding">
+<h3>Design</h3>
+
+<p>Web Design</p>
+<p>Logo and Branding</p>
+<p>UI&UX</p>
+
+</div>
+
+
+</div>
+</div>
+
+<br>
+<hr>
+<br>
+<div class class="contact-me">
+<h2>GET YOUR WORK DONE.</h2>
+<h2>I'm available for freelance work.</h2></div>
+
+<br>
+<hr>
+<br>
+
+<a class="btn" href="mailto:Mohd.Kashif9262@gmail.com">CONTACT ME</a>
+</div>
+</div>
+
+
+<div class="bottom-container">
+<a class="footer-link" href="https://www.linkedin.com/in/Mohd.-Kashif- 860918207/">LinkedIn</a>
+<br>
+<a class="footer-link" href="https://instagram.com/innshaaaaa?igshid=YmMyMTA2M2Y=">Instagram</a>
+<br>
+<a class="footer-link" href="https://github.com/innshaaaaa">GitHub</a>
+<p class="copyright">© Mohd. Kashif.</p>
+</div>
+ 
+
+
+
+
+
+
+
+</body>
+</html>
+ 
